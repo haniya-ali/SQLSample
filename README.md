@@ -17,4 +17,4 @@ Role: Explore different categories and characters corresponding to an actor.
 Title: Investigate relationships between films, genres, runtime, etc.
 
 **Additional information**
-The SQL commands were run in jupyter lab by establishing a SQLAlchemy connection and connecting the respective database. 
+The SQL commands were run in Jupyter Lab by establishing a SQLAlchemy connection and connecting the respective database. 
